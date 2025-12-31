@@ -1,27 +1,31 @@
-# Oreon Project
+# Oreon Open Technology Consortium
 
-Oreon Project is dedicated to making Enterprise Linux more suitable for desktops and laptops, providing the best user experience right out of the gate.
+The Oreon Open Technology Consortium is a community-governed organization backed by Oreon HQ focused on the open development of the Oreon operating system and its surrounding technologies.
 
 ---
 
 ## Overview
 
-Oreon takes the stability and reliability of Enterprise Linux and adapts it for real desktop use. It focuses on usability, performance, and long-term maintainability without losing the enterprise-grade backbone that powers mission-critical systems.
+Oreon is a general-purpose operating system designed for desktops and laptops, with an emphasis on performance, usability, and long-term maintainability.
+
+The Consortium is responsible for open development, technical standards, and governance of the Oreon FOSS ecosystem.
+
+---
+
+## Project Structure
+
+Oreon is developed openly under the stewardship of the Oreon Open Technology Consortium and partially backed by Oreon HQ.
+
+Oreon HQ, exists to support funding, infrastructure, partnerships, enterprise readiness, and OEM relationships.
 
 ---
 
 ## Resources
 
-Oreon Project is built and maintained by a passionate community of users and developers.
+Oreon is built and maintained by a global community of users and developers.
 
-- **Discord:** [Join our community](https://discord.gg/2Yyacu58Ap)
-- **Matrix:** [Join our community](https://matrix.to/#/#oreonproject:matrix.org)
-- **Oreon Forums:** [Join our community](https://forums.oreonproject.org)
-- **YouTube:** [Watch our videos](https://youtube.com/@oreonproject)
-- **Download:** [Download Oreon](https://oreonproject.org/downloads)
-
----
-
-## Road to Independence
-
-Oreon is currently transitioning toward becoming a fully independent Linux distribution planned for Oreon 11 built from the ground up while maintaining full compatibility with RPM-based packages.
+- Discord: https://discord.gg/2Yyacu58Ap
+- Matrix: https://matrix.to/#/#oreonproject:matrix.org
+- Oreon Forums: https://forums.oreonproject.org
+- YouTube: https://youtube.com/@oreonproject
+- Download: https://oreonproject.org/downloads
