@@ -1,6 +1,6 @@
-# Oreon Open Technology Consortium
+# Oreon Project
 
-The Oreon Open Technology Consortium is a community-governed organization backed by Oreon HQ focused on the open development of the Oreon operating system and its surrounding technologies.
+The Oreon Project is a community-governed organization backed by Oreon HQ focused on the open development of the Oreon operating system and its surrounding technologies.
 
 ---
 
@@ -14,7 +14,7 @@ The Consortium is responsible for open development, technical standards, and gov
 
 ## Project Structure
 
-Oreon is developed openly under the stewardship of the Oreon Open Technology Consortium and partially backed by Oreon HQ.
+Oreon is developed openly under the stewardship of the Oreon Project and partially backed by Oreon HQ.
 
 Oreon HQ, exists to support funding, infrastructure, partnerships, enterprise readiness, and OEM relationships.
 
