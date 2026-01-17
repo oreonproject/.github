@@ -8,7 +8,7 @@ The Oreon Project is a community-governed organization backed by Oreon HQ focuse
 
 Oreon is a general-purpose operating system designed for desktops and laptops, with an emphasis on performance, usability, and long-term maintainability.
 
-The Consortium is responsible for open development, technical standards, and governance of the Oreon FOSS ecosystem.
+The project is responsible for open development, technical standards, and governance of the Oreon FOSS ecosystem.
 
 ---
 
