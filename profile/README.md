@@ -26,6 +26,6 @@ Oreon is built and maintained by a global community of users and developers.
 
 - Discord: https://discord.gg/2Yyacu58Ap
 - Matrix: https://matrix.to/#/#oreonproject:matrix.org
-- Oreon Forums: https://github.com/orgs/oreonproject/discussions
+- Forums: https://github.com/orgs/oreonproject/discussions
 - YouTube: https://youtube.com/@oreonproject
-- Download: https://oreonproject.org/downloads
+- Download: https://oreonhq.com/oreon/download
